@@ -1,0 +1,8 @@
+## Interface: 11.0.2
+## Title: PvP Tooltip
+## Notes: Fügt PvP-Modifier zu den Tooltips der Fähigkeiten hinzu.
+## Author: Broxis
+## Version: 0.0.1
+
+PvPModifierDB.lua
+PvPTooltip.lua
